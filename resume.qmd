@@ -16,10 +16,10 @@ Accounting Major Student.
 xxxxxxooooooooxxxxx
 
 ### Skills
-* Mandarin (Native), English (Fluent) 
-* Communication Skills. 
-* Computer Skills: Microsoft. 
-* Multiple Tasks
+  * Mandarin (Native), English (Fluent) 
+  * Communication Skills. 
+  * Computer Skills: Microsoft. 
+  * Multiple Tasks
 
 
 ## Working Experiences
