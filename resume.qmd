@@ -7,13 +7,8 @@ Accounting Major Student.
 
 <div id="webaddress">
 <a href="https://www.linkedin.com/in/olivia-chien/">Olivia Linkedin Page</a>
-| <a href="">My wikipedia page</a>
+<!-- | <a href="">My wikipedia page</a> -->
 </div>
-
-
-## Currently
-
-xxxxxxooooooooxxxxx
 
 ### Skills
   * Mandarin (Native), English (Fluent) 
@@ -22,30 +17,35 @@ xxxxxxooooooooxxxxx
   * Multiple Tasks
 
 
-## Working Experiences
+### Working Experiences
 `Apr 2023 - Now` Peer Advisor (Idaho- BYU-I)
-* Consulted 30+ campus students per week to demonstrate communication skills and fluency in English 
-* Conduct weekly advisor training with other advisors to improve public speaking and teamwork experience 
-* Finish team’s project daily by using MS Office and Excel
+
+  * Consulted 30+ campus students per week to demonstrate communication skills and fluency in English 
+  * Conduct weekly advisor training with other advisors to improve public speaking and teamwork experience 
+  * Finish team’s project daily by using MS Office and Excel
 
 `Jan 2023 - Apr 2023` Custodian (Idaho- BYU-I)
-* Trained newly hired employees on daily tasks and built good relationships 
-* Coordinated fellows to finish daily assignments in a timely and professional mannans 
+
+  * Trained newly hired employees on daily tasks and built good relationships 
+  * Coordinated fellows to finish daily assignments in a timely and professional mannans 
 
 `June 2022 - Aug 2022` Waitress (Taiwan- McDonald's)
-* Promoted new products and ordered meals to customers daily to enhance customer service skills 
-* Prepared (including meals, drinks, snacks, etc.), packaged, and delivered food for customs within 2 minutes 
+
+  * Promoted new products and ordered meals to customers daily to enhance customer service skills 
+  * Prepared (including meals, drinks, snacks, etc.), packaged, and delivered food for customs within 2 minutes 
 to show multiple tasks and teamwork ability
 
 `May 2021 - Aug 2021` Tutor (Taiwan)
-* Prepared 3+ lessons per week and practiced questions for first-grade students 
-* Communicated and reported daily to parents about student’s academic progress
+
+  * Prepared 3+ lessons per week and practiced questions for first-grade students 
+  * Communicated and reported daily to parents about student’s academic progress
 
 ## Volunteer Experiences
 `Oct 2019 - Apr 2021` Missionary (Taiwan - Missionary--The Church of Jesus Christ of Latter-Day Saints)
-* Taught 15+ people per week with another assigned missionary to strengthen teamwork and teaching ability 
-* Training new missionaries to communicate with people and daily missionary schedules 
-* Conducted monthly meetings and created training materials for missionaries
+
+  * Taught 15+ people per week with another assigned missionary to strengthen teamwork and teaching ability 
+  * Training new missionaries to communicate with people and daily missionary schedules 
+  * Conducted monthly meetings and created training materials for missionaries
 
 ## Education
 
@@ -54,39 +54,6 @@ __Foreign High School.__
 
 `Sep 2022 - now`
 __Brigham Young University–Idaho__
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
 
 
 <!-- ### Footer
